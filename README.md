@@ -96,5 +96,5 @@ Restrict IP access
 - GPU acceleration requires CUDA-enabled PyTorch.
 - Depth images must be aligned with RGB images for accurate size estimation.
 
-🧑‍💻 Author
+**Author**
 Developed as a sample project to demonstrate computer vision integration with FastAPI for inference.
