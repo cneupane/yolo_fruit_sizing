@@ -98,3 +98,8 @@ Restrict IP access
 
 **Author**
 Developed as a sample project to demonstrate computer vision integration with FastAPI for inference.
+
+##TODO
+- Secure API (add API key authentication, enable HTTPS with TLS certificate, request rate limit to avoid overload).
+- Add support for images location on cloud
+- Pass csv to client once completed processing images
