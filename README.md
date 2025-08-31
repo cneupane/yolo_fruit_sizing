@@ -20,10 +20,15 @@ Outputs include **annotated images** and a consolidated **CSV file**.
 ---
 
 ## Project Structure
+
 ├── yolo_fruit_sizing_server.py # FastAPI inference server
+
 ├── yolo_fruit_sizing_client.py # Client script for batch processing
+
 ├── yolov8m_mango-seg.pt # YOLOv8 segmentation model (not included)
+
 ├── output/ # Annotated images + CSV results
+
 └── README.md # Documentation
 
 ---
