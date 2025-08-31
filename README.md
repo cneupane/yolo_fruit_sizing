@@ -39,6 +39,7 @@ Install dependencies:
 ```bash
 pip install fastapi uvicorn ultralytics opencv-python requests
 
+---
 (Optional) Create and activate a virtual environment:
 python -m venv .venv
 source .venv/bin/activate  # Linux/Mac
