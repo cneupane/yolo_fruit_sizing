@@ -20,7 +20,7 @@ Outputs include **annotated images** and a consolidated **CSV file**.
 ---
 
 ## Project Structure
-bash```
+```bash
 
 ├── yolo_fruit_sizing_server.py # FastAPI inference server
 
